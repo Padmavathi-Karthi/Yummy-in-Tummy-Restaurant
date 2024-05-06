@@ -709,7 +709,7 @@ img {
         display: block;
     }
 
-    .header ul {
+    .header ul{
         position: absolute;
         flex-direction: column;
         background-color: #ddd;
