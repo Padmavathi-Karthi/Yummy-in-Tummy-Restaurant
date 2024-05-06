@@ -716,7 +716,7 @@ img {
         width: 100%;
         left: 0;
         padding: 10px;
-        top: 84px;
+        top: 64px;
         text-align: center;
         display: none;
         transition: .3s;
@@ -748,8 +748,9 @@ img {
         flex-basis: 48% !important;
         margin-bottom: 30px;
     }
-
 }
+
+/* Mobile Screen */
 
 @media only screen and (max-width: 767px) {
     .container {
@@ -766,7 +767,7 @@ img {
         width: 100%;
         left: 0;
         padding: 10px;
-        top: 74px;
+        top: 54px;
         text-align: center;
         display: none;
         transition: .3s;
@@ -779,7 +780,7 @@ img {
         font-size: 18px;
     }
     .header a{
-        font-size: 14px;
+        font-size: 15px;
         padding: 5px 10px;
     }
     .banner-content{
